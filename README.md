@@ -8,5 +8,6 @@
 
 
 <p align="center">
-![Untitled](https://github.com/user-attachments/assets/11426dc6-ab76-4050-ae64-4aba6da93c15)
+![Untitled](https://github.com/user-attachments/assets/88b591da-f036-4d81-aa76-fea5d39bf76a)
+
 <p/>
