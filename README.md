@@ -1,6 +1,8 @@
 # Facial Measurement iOS App for ophtalmic glasses (Optician Tool)
 
-<img src="https://github.com/user-attachments/assets/ad5a4077-d694-43fe-969d-43132e2dd78a" width="250" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ad5a4077-d694-43fe-969d-43132e2dd78a" width="250" />
+</p>
 
 <table>
 <tr>
